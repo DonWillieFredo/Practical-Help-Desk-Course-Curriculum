@@ -1,0 +1,3 @@
+## Battery
+
+### This is what gives your laptop portability! Most modern laptops use lithium-ion (Li-ion) batteries. They are rechargeable and have a good energy density, meaning they can store a decent amount of power for their size and weight. You might also hear about lithium-polymer (Li-Po) batteries, which are similar but can be molded into more shapes, allowing for thinner laptop designs. The battery's capacity is usually measured in watt-hours (Wh), which gives you an idea of how long it can power the laptop on a single charge.
